@@ -17,12 +17,8 @@ The following **required** functionality is completed:
 - [✓] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<div>
-<figure>
-  <iframe src="https://www.loom.com/embed/ddfba2dc8a8d4ed7a9519d767a244468?sid=183e46c5-55e2-49d1-879f-b9b3e2ea1d73" 
-          frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
-          style="width: 100%; height: 100%;"></iframe>
-</figure>
+<div 
+ style="position: relative; padding-bottom: 69.4980694980695%; height: 0;"><iframe src="https://www.loom.com/embed/ddfba2dc8a8d4ed7a9519d767a244468?sid=84f4e766-3827-498b-ba2d-ed2445223fad" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
  
 
