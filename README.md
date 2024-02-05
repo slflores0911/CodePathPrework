@@ -35,11 +35,17 @@ quite fun and the instructions were very clear!
 
 
 ## App Brainstorming
-Reddit, Spotify, Everand. 
- - User interface is fantastic.
- - the ability to create specific libraries/ playlists for favorite songs/ books (Spotify and Everand).
-   with reddit you can also be apart of various groups/ communities that are seperate from one another.
- - I like the organization of every app, caterogized into different menus allows for ease of use.
+Reddit
+- The design of Reddit emphasizes user-generated content, fostering a sense of community and collaboration.
+- The app's menu system and subreddit structure make it easy to navigate through different topics and discussions.
+Spotify
+- Spotify boasts a clean and intuitive interface that prioritizes ease of use. The app's design facilitates smooth music exploration and playback.
+  The use of album covers, artist images, and a visually appealing layout contributes to an engaging and enjoyable user experience.
+Everand 
+ Goodnotes:
+- GoodNotes is primarily designed for digital note-taking, with a focus on handwriting and annotation.
+- The app often adopts a notebook-style interface, mimicking physical notebooks, which can provide a familiar and visually appealing experience for users.
+- Excels in handwriting recognition, allowing users to write notes using a stylus or their fingers with precision.
    
 ## License
 
