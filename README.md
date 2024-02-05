@@ -20,7 +20,6 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/ddfba2dc8a8d4ed7a9519d767a244468">
-      <p>Simulator - iPhone 15 Pro - 5 February 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/ddfba2dc8a8d4ed7a9519d767a244468">
       <img style="max-width:300px;" src="null">
