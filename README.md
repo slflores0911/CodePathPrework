@@ -18,8 +18,10 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div 
- style="position: relative; padding-bottom: 69.4980694980695%; height: 0;"><iframe src="https://www.loom.com/embed/ddfba2dc8a8d4ed7a9519d767a244468?sid=cbbc7e4d-5190-435a-8685-e001a8f39e5f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+<div style="position: relative; padding-bottom: 69.4980694980695%; height: 0;">
+  <iframe src="https://www.loom.com/embed/ddfba2dc8a8d4ed7a9519d767a244468?sid=6fbd344a-4385-4eeb-9646-88df2a33efc9"
+          frameborder="0" allowfullscreen loading="lazy"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 
