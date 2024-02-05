@@ -41,8 +41,7 @@ Reddit
 Spotify
 - Spotify boasts a clean and intuitive interface that prioritizes ease of use. The app's design facilitates smooth music exploration and playback.
   The use of album covers, artist images, and a visually appealing layout contributes to an engaging and enjoyable user experience.
-Everand 
- Goodnotes:
+Goodnotes
 - GoodNotes is primarily designed for digital note-taking, with a focus on handwriting and annotation.
 - The app often adopts a notebook-style interface, mimicking physical notebooks, which can provide a familiar and visually appealing experience for users.
 - Excels in handwriting recognition, allowing users to write notes using a stylus or their fingers with precision.
