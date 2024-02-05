@@ -13,8 +13,8 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [✓] Users are see a screen with three labels and a button
+- [✓] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -26,6 +26,14 @@ The following **required** functionality is completed:
 I had more diffculty recording the walkthrough, I think this project was 
 quite fun and the instructions were very clear!
 
+
+## App Brainstorming
+Reddit, Spotify, Everand. 
+ - User interface is fantastic.
+ - the ability to create specific libraries/ playlists for favorite songs/ books (Spotify and Everand).
+   with reddit you can also be apart of various groups/ communities that are seperate from one another.
+ - I like the organization of every app, caterogized into different menus allows for ease of use.
+   
 ## License
 
     Copyright [2024] [Samantha Flores]
