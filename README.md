@@ -26,9 +26,6 @@ The following **required** functionality is completed:
   </div>
  
 
-
-## App Brainstorming
-
 ## Notes
 I had more diffculty recording the walkthrough, I think this project was 
 quite fun and the instructions were very clear!
@@ -38,9 +35,12 @@ quite fun and the instructions were very clear!
 Reddit
 - The design of Reddit emphasizes user-generated content, fostering a sense of community and collaboration.
 - The app's menu system and subreddit structure make it easy to navigate through different topics and discussions.
+
 Spotify
 - Spotify boasts a clean and intuitive interface that prioritizes ease of use. The app's design facilitates smooth music exploration and playback.
   The use of album covers, artist images, and a visually appealing layout contributes to an engaging and enjoyable user experience.
+
+
 Goodnotes
 - GoodNotes is primarily designed for digital note-taking, with a focus on handwriting and annotation.
 - The app often adopts a notebook-style interface, mimicking physical notebooks, which can provide a familiar and visually appealing experience for users.
