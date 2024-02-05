@@ -46,6 +46,13 @@ Everand
 - GoodNotes is primarily designed for digital note-taking, with a focus on handwriting and annotation.
 - The app often adopts a notebook-style interface, mimicking physical notebooks, which can provide a familiar and visually appealing experience for users.
 - Excels in handwriting recognition, allowing users to write notes using a stylus or their fingers with precision.
+
+App Ideas: 
+I have always enjoyed reading in my free time, but more often than not I spend a significant amount of time trying to find a book to read 
+than actually reading one. It would be nice to create an app that provides suggestions based on a variety of inputs. This can be from authors, 
+genre (subgenres too I would love to get nitty gritty with the recommendations), themes, time period, etc. I think this would be something that 
+a lot of fellow bookworms would enjoy. If possible, there are also times where I forget the title of the book, but I have a great idea of the general 
+plot and even characters within the story. This app would include a feature that provides the title of the unkown book within my app
    
 ## License
 
