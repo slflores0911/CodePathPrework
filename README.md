@@ -1,8 +1,8 @@
-# Prework - *Prework*
+# Prework - *The Button*
 
 Submitted by: **Samantha L. Flores**
 
-Pre work is an app that contains my name, school, and 
+_The Button_ is an app that contains my name, school, and 
 aspiring job along with a functioning button that 
 will change the background to a random color everytime it is 
 pressed.
