@@ -27,7 +27,7 @@ The following **required** functionality is completed:
  
 
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
 ## Notes
 I had more diffculty recording the walkthrough, I think this project was 
